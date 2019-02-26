@@ -1,0 +1,6 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  C4.4.c
+c:\users\14456\source\repos\c4.4\c4.4\c4.4.c(29): warning C4013: “system”未定义；假设外部返回 int
+c:\users\14456\source\repos\c4.4\c4.4\c4.4.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  C4.4.vcxproj -> C:\Users\14456\source\repos\C4.4\Debug\C4.4.exe

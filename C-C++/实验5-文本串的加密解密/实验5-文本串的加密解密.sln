@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实验5-文本串的加密解密", "实验5-文本串的加密解密\实验5-文本串的加密解密.vcxproj", "{CE588A12-FB18-42E7-9050-9E6B74D8D5FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE588A12-FB18-42E7-9050-9E6B74D8D5FE}.Debug|x64.ActiveCfg = Debug|x64
+		{CE588A12-FB18-42E7-9050-9E6B74D8D5FE}.Debug|x64.Build.0 = Debug|x64
+		{CE588A12-FB18-42E7-9050-9E6B74D8D5FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE588A12-FB18-42E7-9050-9E6B74D8D5FE}.Debug|x86.Build.0 = Debug|Win32
+		{CE588A12-FB18-42E7-9050-9E6B74D8D5FE}.Release|x64.ActiveCfg = Release|x64
+		{CE588A12-FB18-42E7-9050-9E6B74D8D5FE}.Release|x64.Build.0 = Release|x64
+		{CE588A12-FB18-42E7-9050-9E6B74D8D5FE}.Release|x86.ActiveCfg = Release|Win32
+		{CE588A12-FB18-42E7-9050-9E6B74D8D5FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91F21EF-0F40-4550-B2AD-9D89DC540930}
+	EndGlobalSection
+EndGlobal

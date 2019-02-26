@@ -1,0 +1,25 @@
+﻿  源.cpp
+c:\users\14456\source\repos\我233\我233\源.cpp(9): error C2065: “cerr”: 未声明的标识符
+c:\users\14456\source\repos\我233\我233\源.cpp(13): error C2065: “cin”: 未声明的标识符
+c:\users\14456\source\repos\我233\我233\源.cpp(13): error C2228: “.getline”的左边必须有类/结构/联合
+  c:\users\14456\source\repos\我233\我233\源.cpp(13): note: 类型是“unknown-type”
+c:\users\14456\source\repos\我233\我233\源.cpp(19): error C2065: “cout”: 未声明的标识符
+c:\users\14456\source\repos\我233\我233\源.cpp(22): error C2065: “cout”: 未声明的标识符
+c:\users\14456\source\repos\我233\我233\源.cpp(22): error C2563: 在形参表中不匹配
+c:\users\14456\source\repos\我233\我233\源.cpp(22): error C2568: “<<”: 无法解析函数重载
+  c:\users\14456\source\repos\我233\我233\源.cpp(22): note: 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+c:\users\14456\source\repos\我233\我233\源.cpp(31): error C2065: “cerr”: 未声明的标识符
+c:\users\14456\source\repos\我233\我233\源.cpp(36): error C2065: “cin”: 未声明的标识符
+c:\users\14456\source\repos\我233\我233\源.cpp(36): error C2228: “.get”的左边必须有类/结构/联合
+  c:\users\14456\source\repos\我233\我233\源.cpp(36): note: 类型是“unknown-type”
+c:\users\14456\source\repos\我233\我233\源.cpp(39): error C2065: “outfile”: 未声明的标识符
+c:\users\14456\source\repos\我233\我233\源.cpp(39): error C2228: “.put”的左边必须有类/结构/联合
+  c:\users\14456\source\repos\我233\我233\源.cpp(39): note: 类型是“unknown-type”
+c:\users\14456\source\repos\我233\我233\源.cpp(40): error C2065: “cout”: 未声明的标识符
+c:\users\14456\source\repos\我233\我233\源.cpp(42): error C2065: “cout”: 未声明的标识符
+c:\users\14456\source\repos\我233\我233\源.cpp(42): error C2563: 在形参表中不匹配
+c:\users\14456\source\repos\我233\我233\源.cpp(42): error C2568: “<<”: 无法解析函数重载
+  c:\users\14456\source\repos\我233\我233\源.cpp(42): note: 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+c:\users\14456\source\repos\我233\我233\源.cpp(44): error C2065: “outfile”: 未声明的标识符
+c:\users\14456\source\repos\我233\我233\源.cpp(44): error C2228: “.close”的左边必须有类/结构/联合
+  c:\users\14456\source\repos\我233\我233\源.cpp(44): note: 类型是“unknown-type”

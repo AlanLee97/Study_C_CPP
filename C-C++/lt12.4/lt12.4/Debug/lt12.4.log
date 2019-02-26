@@ -1,0 +1,13 @@
+﻿  lt12.4.cpp
+c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(80): error C2259: “Point”: 不能实例化抽象类
+  c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(80): note: 由于下列成员:
+  c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(80): note: “void Shape::shapeNmae(void) const”: 是抽象的
+  c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(8): note: 参见“Shape::shapeNmae”的声明
+c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(81): error C2259: “Circle”: 不能实例化抽象类
+  c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(81): note: 由于下列成员:
+  c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(81): note: “void Shape::shapeNmae(void) const”: 是抽象的
+  c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(8): note: 参见“Shape::shapeNmae”的声明
+c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(82): error C2259: “Cylinder”: 不能实例化抽象类
+  c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(82): note: 由于下列成员:
+  c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(82): note: “void Shape::shapeNmae(void) const”: 是抽象的
+  c:\users\14456\source\repos\lt12.4\lt12.4\lt12.4.cpp(8): note: 参见“Shape::shapeNmae”的声明

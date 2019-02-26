@@ -1,0 +1,4 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  test5.cpp
+c:\users\14456\source\repos\test5\test5\gongneng.h(62): warning C4700: 使用了未初始化的局部变量“c”
+  Test5.vcxproj -> C:\Users\14456\source\repos\Test5\Debug\Test5.exe

@@ -1,0 +1,4 @@
+﻿  12.4.cpp
+c:\users\14456\source\repos\12.4\12.4\12.4.cpp(65): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\14456\source\repos\12.4\12.4\12.4.cpp(95): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  12.4.vcxproj -> C:\Users\14456\source\repos\12.4\Debug\12.4.exe

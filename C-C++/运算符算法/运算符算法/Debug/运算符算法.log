@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\mycode\c-c++\运算符算法\运算符算法\main.cpp(44): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\mycode\c-c++\运算符算法\运算符算法\main.cpp(53): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\mycode\c-c++\运算符算法\运算符算法\main.cpp(58): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  运算符算法.vcxproj -> C:\MyCode\C-C++\运算符算法\Debug\运算符算法.exe

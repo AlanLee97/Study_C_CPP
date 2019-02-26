@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SqList", "SqList\SqList.vcxproj", "{98219436-3BA5-49D9-8B0C-8E1DCE128CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98219436-3BA5-49D9-8B0C-8E1DCE128CE8}.Debug|x64.ActiveCfg = Debug|x64
+		{98219436-3BA5-49D9-8B0C-8E1DCE128CE8}.Debug|x64.Build.0 = Debug|x64
+		{98219436-3BA5-49D9-8B0C-8E1DCE128CE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{98219436-3BA5-49D9-8B0C-8E1DCE128CE8}.Debug|x86.Build.0 = Debug|Win32
+		{98219436-3BA5-49D9-8B0C-8E1DCE128CE8}.Release|x64.ActiveCfg = Release|x64
+		{98219436-3BA5-49D9-8B0C-8E1DCE128CE8}.Release|x64.Build.0 = Release|x64
+		{98219436-3BA5-49D9-8B0C-8E1DCE128CE8}.Release|x86.ActiveCfg = Release|Win32
+		{98219436-3BA5-49D9-8B0C-8E1DCE128CE8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7221DAD-0E8C-4005-A6AC-C26C3896200B}
+	EndGlobalSection
+EndGlobal

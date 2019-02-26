@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\14456\source\repos\xt12.4.test\xt12.4.test\源.cpp(14): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\14456\source\repos\xt12.4.test\xt12.4.test\源.cpp(42): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  xt12.4.test.vcxproj -> C:\Users\14456\source\repos\xt12.4.test\Debug\xt12.4.test.exe

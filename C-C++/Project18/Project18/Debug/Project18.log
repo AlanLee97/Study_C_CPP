@@ -1,0 +1,3 @@
+﻿  译密码.c
+译密码.obj : error LNK2005: _main 已经在 c3.6.obj 中定义
+C:\Users\14456\source\repos\Project18\Debug\Project18.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
